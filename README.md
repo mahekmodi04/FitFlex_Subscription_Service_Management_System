@@ -338,7 +338,5 @@ Stated plainly, because they were choices rather than oversights:
 
 **Mahek Jameer Modi** — B.Tech CSE, VIT Chennai (2026)
 
-[LinkedIn](https://www.linkedin.com/in/mahek-modi-858641278/) · [GitHub](https://github.com/mahekmodi04) · mahekmodi04@gmail.com
-
-<!-- TODO: add your portfolio URL here once it's deployed -->
+[Portfolio](https://portfolio-mahek-modi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mahek-modi-858641278/) · [GitHub](https://github.com/mahekmodi04) · mahekmodi04@gmail.com
 
