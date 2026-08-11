@@ -272,8 +272,8 @@ Set the required environment variables:
 | `JWT_EXPIRATION` | no | `86400000` | 24h, in ms |
 | `PORT` | no | `8080` | |
 | `CORS_ALLOWED_ORIGINS` | no | `http://localhost:3000` | Comma-separated |
-| `admin.seed.email` | no | `admin@gmail.com` | **Override in production** |
-| `admin.seed.password` | no | `admin123` | **Override in production** |
+| `admin.seed.email` | **yes** | — | Seeds the initial admin account on first boot |
+| `admin.seed.password` | **yes** | — | Seeds the initial admin account on first boot |
 
 Then run:
 
